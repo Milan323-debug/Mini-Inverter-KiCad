@@ -163,11 +163,8 @@ This project is released under the **MIT License** — free to use, modify, and 
 
 ## 🙋 Author
 
-**[Your Name]**  
+**Milan Pramanik**  
 Electronics enthusiast | PCB Designer | Learning power electronics  
-
-- LinkedIn: [your-linkedin-url]  
-- GitHub: [@your-username]
 
 ---
 
