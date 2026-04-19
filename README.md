@@ -7,7 +7,10 @@
 
 ## 📸 Preview
 
-> _Add schematic screenshot, PCB top/bottom view, and 3D render images here after exporting from KiCad_
+<img width="1337" height="754" alt="Miniinverter" src="https://github.com/user-attachments/assets/2534520d-d008-4a60-81f5-8ee23ca0037f" />
+<img width="1337" height="754" alt="Miniinverter1" src="https://github.com/user-attachments/assets/b605a5aa-58c3-4fa9-b1a1-36ab2ae8d9e5" />
+<img width="388" height="544" alt="Screenshot 2026-04-19 112902" src="https://github.com/user-attachments/assets/52ade920-c781-4a3c-ab4c-711326b2d817" />
+<img width="388" height="544" alt="Screenshot 2026-04-19 112902" src="https://github.com/user-attachments/assets/e48d6f7f-dc1c-483d-95ae-11f8bd269ce0" />
 
 ---
 
