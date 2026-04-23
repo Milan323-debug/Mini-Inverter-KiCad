@@ -110,7 +110,7 @@ Mini-Inverter-KiCad/
 
 ## 🛠️ Tools Used
 
-- **[KiCad 8](https://www.kicad.org/)** — Schematic capture and PCB layout (free & open source)
+- **[KiCad 10](https://www.kicad.org/)** — Schematic capture and PCB layout (free & open source)
 - **[Tracespace Gerber Viewer](https://tracespace.io/view/)** — Online Gerber preview
 - All components are **through-hole (THT)** for easy hand soldering
 
@@ -130,7 +130,7 @@ Mini-Inverter-KiCad/
 ## 🚀 Getting Started
 
 ### Prerequisites
-- KiCad 8 or later ([download here](https://www.kicad.org/download/))
+- KiCad 10 or later ([download here](https://www.kicad.org/download/))
 
 ### Open the Project
 1. Clone this repository:
